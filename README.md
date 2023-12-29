@@ -1,4 +1,4 @@
 # Ml__movie-recommendation_model
 
-this is a good working movie recommendation model i created with the knowledge i have on machine learning it gives a pretty good recommendation based on simmlar title (close match to the tittle ) 
-you can update it by finding close match by title,genere or director you can use other thing to find or give a better recommendation to the end user
+this is a good working movie recommendation model I created with the knowledge I have on machine learning it gives a pretty good recommendation based on a similar title (close match to the title) 
+you can update it by finding close matches by title, genre or director you can use other things to find or give a better recommendation to the end user
